@@ -1,0 +1,59 @@
+{
+  "C1": [
+    {
+      "name": "Fashion",
+      "image_url": "https://cdn.pixabay.com/photo/2017/05/13/12/40/fashion-2309519_1280.jpg",
+      "C2": [
+        {
+          "name": "Casual Shoe",
+          "price": 250000,
+          "image_url": "https://cdn.pixabay.com/photo/2017/07/02/21/34/sport-shoe-2465915_1280.jpg"
+        },
+        {
+          "name": "Tote Bag",
+          "price": 200000,
+          "image_url": "https://cdn.pixabay.com/photo/2021/07/14/09/46/eco-bag-6465610_1280.jpg"
+        },
+        {
+          "name": "Casual Shoe",
+          "price": 230000,
+          "image_url": "https://cdn.pixabay.com/photo/2020/04/14/09/53/nike-5041718_1280.jpg"
+        },
+        {
+          "name": "Tote Bag",
+          "price": 300000,
+          "image_url": "https://cdn.pixabay.com/photo/2023/08/11/20/39/bag-8184314_1280.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Technology",
+      "image_url": "https://cdn.pixabay.com/photo/2014/09/20/13/52/board-453758_1280.jpg",
+      "C2": [
+        {
+          "name": "Asus",
+          "price": 7000000,
+          "image_url": "https://cdn.pixabay.com/photo/2014/09/27/13/45/notebook-463490_1280.jpg"
+        },
+        {
+          "name": "Android",
+          "price": 1500000,
+          "image_url": "https://cdn.pixabay.com/photo/2016/11/29/12/30/phone-1869510_1280.jpg"
+        },
+        {
+          "name": "IOS",
+          "price": 12000000,
+          "image_url": "https://cdn.pixabay.com/photo/2018/01/28/10/59/internet-3113279_1280.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Food",
+      "image_url": "https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberries-2023404_1280.jpg"
+    },
+    {
+      "name": "Cosmetics",
+      "image_url": "https://cdn.pixabay.com/photo/2016/10/22/20/55/makeup-brushes-1761648_1280.jpg"
+    }
+  ]
+}
